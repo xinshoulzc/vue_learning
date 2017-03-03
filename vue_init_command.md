@@ -6,10 +6,10 @@
 > * [nodejs install website](http://nodejs.cn)
 
 ### 2. install cnpm
-> * npm install -g cnpm --registry=https://registry.npm.taobao.org *ps.cnpm contains a large quantities of package by using npm mirroring, which makes downloading quickly*
+> * npm install -g cnpm --registry=https://registry.npm.taobao.org   *ps.cnpm contains a large quantities of package by using npm mirroring, which makes downloading quickly*
 
 ### 3. git install
-> * [git install](https://git-scm.cn) *ps.it is recommanded that install gitbash as a substitute of windows cmd* 
+> * [git install website](https://git-scm.cn)    *ps.it is recommanded that install gitbash as a substitute of windows cmd* 
 
 ### 4. vue-cli install global
 > * cnpm install -g vue-cli
