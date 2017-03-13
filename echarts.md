@@ -4,7 +4,7 @@
 <script type="text/javascript">
     data () {
         return {
-            mychart: null, //the needle which directs echart.
+            mychart: null, //A variable which directs echart.
             defaultOption: {
                 //This is the initial option of the echart.
             }
